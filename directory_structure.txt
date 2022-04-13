@@ -1,0 +1,5 @@
+.
+./input
+./input/womens-march-mania-2022
+./input/womens-march-mania-2022/WDataFiles_Stage2
+./model
